@@ -1,4 +1,4 @@
-### Hi there 👋, I am Marina, I will be looking at sharing projects that focus on environmental data primarily biodiversity of species using various databases. 
+### Hi there 👋, I am Marina, I will be looking at sharing projects that focus on environmental data primarily. 
 
 <!--
 **marinaviolette/marinaviolette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
