@@ -1,4 +1,4 @@
-### Hi there 👋, I am Marina, I will be looking at sharing projects that focus on humanitarian projects. 
+### Hi there 👋, I am Marina :)  
 
 <!--
 **marinaviolette/marinaviolette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
